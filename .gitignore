@@ -1,0 +1,5 @@
+.DS_Store
+.pytest_cache/
+tasks/__pycache__/
+tests/__pycache__/
+.idea
