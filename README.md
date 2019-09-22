@@ -33,7 +33,7 @@ Here is a list of the tasks:
 | 4 | _pipes_           | 4          |          |
 | 5 | _training_        | 5          |          |
 | 6 | _wifi_ _password_ | 1          | [x]      |
-
+| 7 | _signal_ _crossing_ | 3        | [x]      |
 
 # License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
