@@ -1,0 +1,8 @@
+name: python-programming-challenges
+channels:
+  - defaults
+dependencies:
+  - python=3.7
+  - numpy
+  - pandas
+  - pytest
