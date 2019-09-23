@@ -14,6 +14,7 @@ For each task you'll find the description at the beginning of the file,
 but there are also other useful information on the task function docstring.
 The tasks are marked with a difficulty ranging from 0-5, where 0 should be very easy, while 5
 can be quite difficult.
+Some tests will also have timeouts.
 
 To run tests, simply run `pytest tests` from the project root.
 The tasks that are not implemented are skipped so they'll not invalidate the other tests.
@@ -34,6 +35,7 @@ Here is a list of the tasks:
 | 5 | _training_        | 5          |          |
 | 6 | _wifi_ _password_ | 1          | [x]      |
 | 7 | _signal_ _crossing_ | 3        | [x]      |
+| 8 | _marketing_       | 1          | [x]      |
 
 # License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
